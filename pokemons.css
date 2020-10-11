@@ -1,0 +1,15 @@
+
+*{margin: 0;
+padding:0;}
+
+/*.cruved{background: red;
+ }*/
+ /*.curved{background:purple;color:plum;margin: 0px;
+    text-align:center;}*/ 
+    
+  /* .curved h1{font-size:6rem;
+    font-family: 'Courier New', Courier, monospace;margin:0px;}*/
+
+   
+    img{float: right;position:relative; top:15%;}
+    main >p,div{ margin:2px;padding:20px;position: relative;top:30%;font-weight:bold;font-family: ABeeZee;}
